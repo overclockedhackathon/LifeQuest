@@ -19,7 +19,8 @@ Built on a robust full-stack architecture with a **server-authoritative** design
 
 ## 🎥 Illustration Walkthrough Video
 
-> **Screen Recording Deliverable:** [Demo Video Link / Submission Link](https://lifequest-pzxa.onrender.com/) *(Strictly 90–180 seconds, <100MB)*
+> **Screen Recording Deliverable:** [🎬 Watch Official Walkthrough Video (MP4)](./demo/LifeQuest.mp4)  
+> *(Duration: 2m 02s | File Size: 7.4 MB | Strictly 90–180 seconds, <100MB compliant)*
 
 ### Demonstrated Flow:
 1. **User Signup & Authentication:** Seamless registration, session cookie creation, and initial character class selection.
