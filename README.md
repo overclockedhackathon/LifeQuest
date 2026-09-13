@@ -2,7 +2,6 @@
 
 [![Live Deployment](https://img.shields.io/badge/Live%20Demo-Render-00d4ff?style=for-the-badge&logo=render&logoColor=white)](https://lifequest-pzxa.onrender.com/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Public%20Repo-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/overclockedhackathon/LifeQuest)
-[![Tests Passing](https://img.shields.io/badge/Verification-30%2F30%20Passed-ffd700?style=for-the-badge&logo=checkmarx&logoColor=black)](https://github.com/overclockedhackathon/LifeQuest)
 
 > **Live Application URL:** [https://lifequest-pzxa.onrender.com/](https://lifequest-pzxa.onrender.com/)  
 > **GitHub Repository:** [https://github.com/overclockedhackathon/LifeQuest](https://github.com/overclockedhackathon/LifeQuest)  
@@ -106,15 +105,15 @@ Visit `http://localhost:5000` in your web browser.
 
 ---
 
-## 🧪 Automated Runtime Verification Suite
+## 🧪 Automated Testing
 
-The repository includes a comprehensive 30-point end-to-end verification suite testing all core requirements and edge cases:
+The repository includes an automated end-to-end test suite covering core requirements and edge cases:
 
 ```bash
 node backend/tests/run-all-verifications.js
 ```
 
-### Verification Coverage:
+### Test Coverage:
 1. **Infrastructure:** Server bootstrap, static file serving, MySQL connection, Prisma schema validation.
 2. **Auth & Sessions:** Signup, login, logout, session persistence across cookies, password hashing.
 3. **Character & Profile:** Character creation, stat initialization, profile retrieval.
@@ -145,7 +144,7 @@ LifeQuest/
 │   │   ├── middleware/          # requireAuth, requireProfile, rate-limiters
 │   │   └── utils/               # Prisma client, passport config
 │   └── tests/
-│       ├── run-all-verifications.js      # 30-point automated runtime test suite
+│       ├── run-all-verifications.js      # Automated runtime test suite
 │       ├── verify-leaderboard.js         # Leaderboard sorting and flag test
 │       └── verify-avatar-persistence.js  # MediumText custom avatar storage test
 └── frontend/
