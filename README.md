@@ -5,7 +5,7 @@
 
 > **Live Application URL:** [https://lifequest-pzxa.onrender.com/](https://lifequest-pzxa.onrender.com/)  
 > **GitHub Repository:** [https://github.com/overclockedhackathon/LifeQuest](https://github.com/overclockedhackathon/LifeQuest)  
-> **Illustration Demo Video:** [Watch Walkthrough Video](./demo/LifeQuest.mp4)
+> **Illustration Demo Video:** [Watch Walkthrough Video](https://youtu.be/ykyJNNiLiTM)
 
 ---
 
@@ -19,7 +19,7 @@ Built on a robust full-stack architecture with a **server-authoritative** design
 
 ## 🎥 Illustration Walkthrough Video
 
-> **Screen Recording Deliverable:** [🎬 Watch Official Walkthrough Video (MP4)](./demo/LifeQuest.mp4)  
+> **Screen Recording Deliverable:** [🎬 Watch Official Walkthrough Video (MP4)]((https://youtu.be/ykyJNNiLiTM))  
 > *(Duration: 2m 02s | File Size: 7.4 MB | Strictly 90–180 seconds, <100MB compliant)*
 
 ### Demonstrated Flow:
