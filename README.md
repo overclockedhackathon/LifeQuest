@@ -5,7 +5,7 @@
 
 > **Live Application URL:** [https://lifequest-pzxa.onrender.com/](https://lifequest-pzxa.onrender.com/)  
 > **GitHub Repository:** [https://github.com/overclockedhackathon/LifeQuest](https://github.com/overclockedhackathon/LifeQuest)  
-> **Illustration Demo Video:** [Watch Walkthrough Video](#-illustration-walkthrough-video)
+> **Illustration Demo Video:** [Watch Walkthrough Video](./demo/LifeQuest.mp4)
 
 ---
 
