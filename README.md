@@ -7,7 +7,7 @@
 > **GitHub Repository:** [https://github.com/overclockedhackathon/LifeQuest](https://github.com/overclockedhackathon/LifeQuest)  
 > **Illustration Demo Video:** [Watch Walkthrough Video](https://youtu.be/ykyJNNiLiTM)
 
----
+----
 
 ## 📖 Overview
 
